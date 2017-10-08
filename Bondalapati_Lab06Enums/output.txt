@@ -1,0 +1,56 @@
+******************************************************************************************
+Reservation List
+******************************************************************************************
+From : MCI, To : HYD, Departing On : 10/10/2017, Returning On : 10/12/2017, Airline : DELTA, Cabin : ECONOMY, Hotel : NO, Meal : VEG, Total fare : $685.0
+From : DAL, To : DUB, Departing On : 10/11/2017, Returning On : 10/15/2017, Airline : AIR_INDIA, Cabin : BUSINESS, Hotel : NO, Meal : NO, Total fare : $1080.0
+From : DAL, To : HYD, Departing On : 10/10/2017, Returning On : 10/17/2017, Airline : DELTA, Cabin : BUSINESS, Hotel : NO, Meal : NON_VEG, Total fare : $1361.0
+From : DFW, To : DEL, Departing On : 11/04/2017, Returning On : 11/14/2017, Airline : US_AIRWAYS, Cabin : ECONOMY, Hotel : KING, Meal : HINDU_MEAL, Total fare : $883.0
+From : MCI, To : LHR, Departing On : 10/14/2017, Returning On : 10/17/2017, Airline : UNITED, Cabin : BUSINESS, Hotel : QUEEN, Meal : NO, Total fare : $1700.0
+From : TUL, To : LHR, Departing On : 10/23/2017, Returning On : 10/26/2017, Airline : CATHAY_PACIFIC, Cabin : BUSINESS, Hotel : DOUBLE, Meal : NON_VEG, Total fare : $1572.6
+From : PHL, To : BOM, Departing On : 10/29/2017, Returning On : 10/31/2017, Airline : AIR_CANADA, Cabin : ECONOMY, Hotel : NO, Meal : NO, Total fare : $640.0
+From : OKC, To : LHR, Departing On : 10/30/2017, Returning On : 11/09/2017, Airline : QANTAS, Cabin : BUSINESS, Hotel : NO, Meal : VEG, Total fare : $1102.0
+From : MCI, To : LGW, Departing On : 11/21/2017, Returning On : 11/23/2017, Airline : AIR_FRANCE, Cabin : ECONOMY, Hotel : DOUBLE, Meal : NO, Total fare : $627.5
+From : DAL, To : LGW, Departing On : 12/15/2017, Returning On : 12/18/2017, Airline : DELTA, Cabin : ECONOMY, Hotel : DOUBLE, Meal : VEG, Total fare : $960.0
+From : DET, To : LTN, Departing On : 10/23/2017, Returning On : 10/27/2017, Airline : CATHAY_PACIFIC, Cabin : BUSINESS, Hotel : NO, Meal : NO, Total fare : $1480.0
+From : SJC, To : BOM, Departing On : 10/29/2017, Returning On : 11/05/2017, Airline : AIR_FRANCE, Cabin : ECONOMY, Hotel : DOUBLE, Meal : NO, Total fare : $650.0
+From : SFO, To : HYD, Departing On : 10/30/2017, Returning On : 11/03/2017, Airline : DELTA, Cabin : ECONOMY, Hotel : DOUBLE, Meal : NO, Total fare : $950.0
+From : FAT, To : YMM, Departing On : 11/21/2017, Returning On : 11/25/2017, Airline : AIR_CANADA, Cabin : BUSINESS, Hotel : DOUBLE, Meal : NO, Total fare : $1790.0
+From : LGB, To : YSM, Departing On : 12/15/2017, Returning On : 12/17/2017, Airline : QANTAS, Cabin : ECONOMY, Hotel : SINGLE, Meal : NO, Total fare : $820.0
+From : LAX, To : XDD, Departing On : 11/04/2017, Returning On : 11/09/2017, Airline : CATHAY_PACIFIC, Cabin : BUSINESS, Hotel : DOUBLE, Meal : NO, Total fare : $1680.0
+From : OAK, To : XHM, Departing On : 11/13/2017, Returning On : 11/16/2017, Airline : AMERICAN_AIRLINES, Cabin : ECONOMY, Hotel : SINGLE, Meal : HINDU_MEAL, Total fare : $689.4
+From : ONT, To : SEN, Departing On : 11/16/2017, Returning On : 11/24/2017, Airline : QANTAS, Cabin : BUSINESS, Hotel : NO, Meal : NO, Total fare : $1200.0
+From : PSP, To : STN, Departing On : 11/22/2017, Returning On : 11/30/2017, Airline : DELTA, Cabin : ECONOMY, Hotel : NO, Meal : NO, Total fare : $675.0
+From : SMF, To : LGW, Departing On : 11/30/2017, Returning On : 12/07/2017, Airline : UNITED, Cabin : ECONOMY, Hotel : NO, Meal : NO, Total fare : $637.0
+From : SAN, To : LHR, Departing On : 10/28/2017, Returning On : 10/29/2017, Airline : AIR_FRANCE, Cabin : BUSINESS, Hotel : NO, Meal : NO, Total fare : $1100.0
+From : SFO, To : BLR, Departing On : 11/12/2017, Returning On : 11/15/2017, Airline : AIR_INDIA, Cabin : BUSINESS, Hotel : SINGLE, Meal : NO, Total fare : $1230.0
+From : SJC, To : MAA, Departing On : 12/09/2017, Returning On : 12/17/2017, Airline : AIR_CANADA, Cabin : BUSINESS, Hotel : NO, Meal : NO, Total fare : $1590.0
+From : DAB, To : CCU, Departing On : 12/10/2017, Returning On : 12/18/2017, Airline : QANTAS, Cabin : ECONOMY, Hotel : NO, Meal : NO, Total fare : $670.0
+From : FLL, To : BOM, Departing On : 12/17/2017, Returning On : 12/19/2017, Airline : AIR_INDIA, Cabin : ECONOMY, Hotel : NO, Meal : NO, Total fare : $590.0
+From : MIA, To : BLR, Departing On : 10/16/2017, Returning On : 10/19/2017, Airline : AIR_INDIA, Cabin : BUSINESS, Hotel : NO, Meal : NO, Total fare : $982.8
+From : KOA, To : CCU, Departing On : 11/11/2017, Returning On : 11/19/2017, Airline : AIR_FRANCE, Cabin : BUSINESS, Hotel : NO, Meal : NO, Total fare : $1100.0
+From : SAV, To : BLR, Departing On : 11/12/2017, Returning On : 11/17/2017, Airline : AIR_CANADA, Cabin : BUSINESS, Hotel : NO, Meal : NO, Total fare : $1590.0
+From : RSW, To : HYD, Departing On : 11/29/2017, Returning On : 12/05/2017, Airline : AMERICAN_AIRLINES, Cabin : ECONOMY, Hotel : SINGLE, Meal : VEG, Total fare : $686.4
+From : MCI, To : BOM, Departing On : 10/22/2017, Returning On : 11/09/2017, Airline : DELTA, Cabin : BUSINESS, Hotel : DOUBLE, Meal : NON_VEG, Total fare : $1711.0
+From : DAL, To : CCU, Departing On : 11/08/2017, Returning On : 12/05/2017, Airline : AIR_INDIA, Cabin : ECONOMY, Hotel : DOUBLE, Meal : VEG, Total fare : $746.9
+From : MCI, To : BLR, Departing On : 11/27/2017, Returning On : 11/30/2017, Airline : QANTAS, Cabin : BUSINESS, Hotel : SINGLE, Meal : HINDU_MEAL, Total fare : $1255.0
+From : DAL, To : BLR, Departing On : 11/29/2017, Returning On : 12/12/2017, Airline : AIR_CANADA, Cabin : ECONOMY, Hotel : NO, Meal : NO, Total fare : $576.0
+From : MCI, To : DEL, Departing On : 12/07/2017, Returning On : 12/15/2017, Airline : AIR_INDIA, Cabin : BUSINESS, Hotel : NO, Meal : NO, Total fare : $1080.0
+
+****************************************************************************************
+Reservations that have source location "DAL"
+******************************************************************************************
+From : DAL, To : DUB, Departing On : 10/11/2017, Returning On : 10/15/2017, Airline : AIR_INDIA, Cabin : BUSINESS, Hotel : NO, Meal : NO, Total fare : $1080.0
+From : DAL, To : HYD, Departing On : 10/10/2017, Returning On : 10/17/2017, Airline : DELTA, Cabin : BUSINESS, Hotel : NO, Meal : NON_VEG, Total fare : $1361.0
+From : DAL, To : LGW, Departing On : 12/15/2017, Returning On : 12/18/2017, Airline : DELTA, Cabin : ECONOMY, Hotel : DOUBLE, Meal : VEG, Total fare : $960.0
+From : DAL, To : CCU, Departing On : 11/08/2017, Returning On : 12/05/2017, Airline : AIR_INDIA, Cabin : ECONOMY, Hotel : DOUBLE, Meal : VEG, Total fare : $746.9
+From : DAL, To : BLR, Departing On : 11/29/2017, Returning On : 12/12/2017, Airline : AIR_CANADA, Cabin : ECONOMY, Hotel : NO, Meal : NO, Total fare : $576.0
+
+******************************************************************************************
+Reservations that have source location "MCI"
+********************************************************************************************
+From : MCI, To : HYD, Departing On : 10/10/2017, Returning On : 10/12/2017, Airline : DELTA, Cabin : ECONOMY, Hotel : NO, Meal : VEG, Total fare : $685.0
+From : MCI, To : LHR, Departing On : 10/14/2017, Returning On : 10/17/2017, Airline : UNITED, Cabin : BUSINESS, Hotel : QUEEN, Meal : NO, Total fare : $1700.0
+From : MCI, To : LGW, Departing On : 11/21/2017, Returning On : 11/23/2017, Airline : AIR_FRANCE, Cabin : ECONOMY, Hotel : DOUBLE, Meal : NO, Total fare : $627.5
+From : MCI, To : BOM, Departing On : 10/22/2017, Returning On : 11/09/2017, Airline : DELTA, Cabin : BUSINESS, Hotel : DOUBLE, Meal : NON_VEG, Total fare : $1711.0
+From : MCI, To : BLR, Departing On : 11/27/2017, Returning On : 11/30/2017, Airline : QANTAS, Cabin : BUSINESS, Hotel : SINGLE, Meal : HINDU_MEAL, Total fare : $1255.0
+From : MCI, To : DEL, Departing On : 12/07/2017, Returning On : 12/15/2017, Airline : AIR_INDIA, Cabin : BUSINESS, Hotel : NO, Meal : NO, Total fare : $1080.0
